@@ -3,5 +3,6 @@
 Scripts do bootcamp de engenharia de dados, do IGTI.
 Aqui fizemos um ETL dos dados do Enade
 
-Lógica do ETL(https://user-images.githubusercontent.com/79227339/193480767-b9518555-4d33-4182-b1d2-3f33917f47e6.png)
+file:///home/dcm/IGTI/Img/etl.png![image](https://user-images.githubusercontent.com/79227339/193480873-7a93a163-f0f4-4524-9ac5-d1f5a10a3336.png)
+
 
