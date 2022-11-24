@@ -11,6 +11,5 @@ Aqui fizemos um ETL dos dados do Enade, e demais script que um Engenheiro de dad
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-(https://user-images.githubusercontent.com/79227339/193480873-7a93a163-f0f4-4524-9ac5-d1f5a10a3336.png)
 
-
+![etl](https://user-images.githubusercontent.com/118218502/203813896-ce296be0-4c2f-4104-88bc-62eecf0ca40b.png)
