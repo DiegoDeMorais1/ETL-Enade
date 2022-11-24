@@ -7,7 +7,7 @@ Aqui fizemos um ETL dos dados do Enade, e demais script que um Engenheiro de dad
 | -------------  | --- |
 | :sparkles: Nome        | **Bootcamp IGTI Engenharia de dados**
 | :label: Tecnologias | Python, Jupyter Lab (Anaconda) (tecnologias utilizadas)
-| :fire: Desafio     |  https://www.alura.com.br/challenges/data-science-2?host=https://cursos.alura.com.br
+| :fire: Desafio     |  https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
